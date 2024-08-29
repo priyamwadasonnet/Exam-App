@@ -1,6 +1,6 @@
   **Exam App**
 _____________________________________________________________________________________________________________________________________________________________
-This is an app that allows users to study deca exams on the go. The file provides source code and shows how to make a simple exam application for Android users.
+This is an app that allows users to study deca exams on the go. This project provides and shows how to make a simple exam application for Android users.
 
 
 **Features 🔥**
